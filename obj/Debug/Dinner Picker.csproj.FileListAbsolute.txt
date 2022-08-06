@@ -1,0 +1,15 @@
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner Picker.csprojAssemblyReference.cache
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.Properties.Resources.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner Picker.csproj.GenerateResource.cache
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner Picker.csproj.CoreCompileInputs.cache
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\bin\Debug\Dinner Picker.exe.config
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\bin\Debug\Dinner Picker.exe
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\bin\Debug\Dinner Picker.pdb
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner Picker.exe
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner Picker.pdb
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.Form2.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.Delete_Item.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.EmptyListError.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.EditForm.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.SubmitConfirm.resources
+C:\Users\Tatum Gray\Documents\Visual Studio 2019\Visual Studio Projects\Dinner Picker\obj\Debug\Dinner_Picker.Form1.resources
